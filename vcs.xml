@@ -58,9 +58,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="mnightley" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/londonappbrewery/Clima-Flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Michael Meng\Desktop" />
+    <option name="cloneParentDir" value="C:\flutter_projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
